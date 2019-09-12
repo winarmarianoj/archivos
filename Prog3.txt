@@ -1,0 +1,7 @@
+Mauro Pignatta,123,9,9,10
+Yago Messina,124,8,8,8
+Thiago Salvuchi,125,6,7,8
+Ezequiel Pirrota,126,6,7,8
+Facundo Palacios,127,7,8,9
+Pepe pepe,128,4,4,5
+
